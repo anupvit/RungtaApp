@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">RungtaApp</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+
+    <!-- Local RungtaWebApp Specific configuration -->
+    <string name="devo_host">http://192.168.1.100:8080/RungtaWebApp2/</string>
+
+    <!-- URL Paths -->
+    <string name="home">home</string>
+</resources>
